@@ -5,12 +5,12 @@ site_author: Fancydrones // Roy Veshovda
 site_dir: _site
 
 # Repository
-repo_url: https://github.com/fancydrones
+#repo_url: https://github.com/fancydrones
 docs_dir: docs
 
 # Navigation
 nav:
-  - Home: README.md
+  - Designs: README.md
   - X500-RPi4: https://fancydrones.github.io/x500-rpi4
 
 ## DO NOT CHANGE BELOW THIS LINE
@@ -28,7 +28,7 @@ theme:
     # Documented here: https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#color-palette-toggle
     # Palette toggle for light mode
     - scheme: default
-      primary: green
+      primary: teal
       accent: indigo
       toggle:
         icon: material/toggle-switch
@@ -36,7 +36,7 @@ theme:
 
     # Palette toggle for dark mode
     - scheme: slate
-      primary: green
+      primary: teal
       accent: indigo
       toggle:
         icon: material/toggle-switch-off-outline
@@ -44,7 +44,7 @@ theme:
 
 # Plugins
 plugins:
-  - search
+  #- search
   - glightbox
 
 # Extensions
