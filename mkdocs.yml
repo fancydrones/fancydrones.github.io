@@ -10,7 +10,8 @@ docs_dir: docs
 
 # Navigation
 nav:
-  - Welcome: README.md
+  - Home: README.md
+  - X500-RPi4: https://fancydrones.github.io/x500-rpi4
 
 ## DO NOT CHANGE BELOW THIS LINE
 # Theme
