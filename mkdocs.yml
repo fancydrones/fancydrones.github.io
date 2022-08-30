@@ -46,7 +46,7 @@ theme:
 plugins:
   - search
   - glightbox
-  - privacy
+  #- privacy - only available for Insiders
 
 # Extensions
 markdown_extensions:
