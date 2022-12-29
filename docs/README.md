@@ -5,4 +5,4 @@ Currently only a single design exists, which is based on the frame [Holybro X500
 
 The design can be found here:
 
-- [X500-CM4](https://fancydrones.github.io/x500-cm44/)
+- [X500-CM4](https://fancydrones.github.io/x500-cm4/)
